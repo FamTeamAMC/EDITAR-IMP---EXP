@@ -1,0 +1,24 @@
+﻿<h3>Editar_IMP_EXP</h3>
+<p class="Contributor">
+	FAMTEAM <br />
+	<a href="mailto:MLEON@FAMCARGO.COM">MLEON@FAMCARGO.COM</a><br />
+	<a href=https://www.famteam.com/>https://www.famteam.com/</a><br />
+	This extension was created using <a href="https://www.christoc.com">Christoc's</a> Module Development Templates for DNN.
+</p>
+<hr/>
+<div class="License">
+	<h3>About the Editar_IMP_EXP</h3>
+	<p class="Owner">
+		<b>Version CHANGEME</b><br /><br />
+	</p>
+	<p>Description about version.</p>
+	
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>List</li>
+			<li>of</li>
+			<li>bug</li>
+			<li>fixes</li>
+	</ul>
+	
+</div>
